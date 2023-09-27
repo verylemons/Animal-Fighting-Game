@@ -1,24 +1,3 @@
-///////////////////////////////////////////////////////////////////////////////
-//                   ALL STUDENTS COMPLETE THESE SECTIONS
-// Title:              Animal
-// Files:              Lion, Tiger, Elephant, Rhino, Snake, Frog, Carnivore
-//                      Herbivore
-// Quarter:            CSE 8B Spring 2023
-//
-// Author:             Kwae Htoo
-// Email:              kkhtoo@ucsd.edu
-// Instructor's Name:  Professor Ochoa
-//
-///////////////////////////////////////////////////////////////////////////////
-//                   STUDENTS WHO GET HELP COMPLETE THIS SECTION
-//                   You must fully acknowledge and credit sources of help.
-//                   Instructors and TAs do not have to be credited here,
-//                   but roommates, relatives, strangers, etc do.
-//
-// Persons:          N/A
-//
-// Online sources:   N/A
-//////////////////////////// 80 columns wide //////////////////////////////////
 
 import java.util.Random;
 
